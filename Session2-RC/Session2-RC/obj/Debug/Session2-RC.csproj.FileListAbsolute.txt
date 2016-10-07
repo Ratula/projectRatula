@@ -1,0 +1,6 @@
+C:\Source\projectRatula\Session2-RC\Session2-RC\bin\Debug\Session2-RC.exe.config
+C:\Source\projectRatula\Session2-RC\Session2-RC\bin\Debug\Session2-RC.exe
+C:\Source\projectRatula\Session2-RC\Session2-RC\bin\Debug\Session2-RC.pdb
+C:\Source\projectRatula\Session2-RC\Session2-RC\obj\Debug\Session2-RC.csprojResolveAssemblyReference.cache
+C:\Source\projectRatula\Session2-RC\Session2-RC\obj\Debug\Session2-RC.exe
+C:\Source\projectRatula\Session2-RC\Session2-RC\obj\Debug\Session2-RC.pdb
